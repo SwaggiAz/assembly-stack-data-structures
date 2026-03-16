@@ -15,6 +15,10 @@ Two example programs are implemented:
 
 These programs show how stack operations such as **push and pop** can be implemented directly using assembly instructions.
 
+<p align="center">
+<img src="stack_diagram.png" width="900">
+</p>
+
 ---
 
 ## Project Structure
