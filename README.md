@@ -19,6 +19,7 @@ These programs show how stack operations such as **push and pop** can be impleme
 
 ## Project Structure
 
+```
 assembly-stack-data-structures
 │
 ├── 01_String_Reversal
@@ -26,8 +27,7 @@ assembly-stack-data-structures
 │
 └── 02_Balanced_Parentheses
     └── balanced_parentheses.asm
-
----
+```
 
 ## Program 1 — String Reversal
 
