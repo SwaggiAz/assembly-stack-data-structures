@@ -3,6 +3,8 @@
 ![Assembly](https://img.shields.io/badge/Language-Assembly-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-x86-green)
 ![Project](https://img.shields.io/badge/Project-Stack%20Data%20Structure-orange)
+![Assembly](https://img.shields.io/badge/Language-Assembly-blue)
+![Architecture](https://img.shields.io/badge/Architecture-x86-green)
 
 ## Overview
 
