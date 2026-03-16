@@ -21,11 +21,11 @@ These programs show how stack operations such as **push and pop** can be impleme
 
 assembly-stack-data-structures
 │
-├ 01_String_Reversal
-│   └ stack_reverse.asm
+├── 01_String_Reversal
+│   └── stack_reverse.asm
 │
-└ 02_Balanced_Parentheses
-└ balanced_parentheses.asm
+└── 02_Balanced_Parentheses
+    └── balanced_parentheses.asm
 
 ---
 
