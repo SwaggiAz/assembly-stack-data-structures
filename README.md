@@ -1,4 +1,4 @@
-# Assembly Stack Data Structures
+# 🧠 Assembly Stack Data Structures
 
 ![Assembly](https://img.shields.io/badge/Language-Assembly-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-x86-green)
