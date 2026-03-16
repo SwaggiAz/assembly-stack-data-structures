@@ -18,7 +18,7 @@ These programs show how stack operations such as **push and pop** can be impleme
 ## Stack Visualization
 
 <p align="center">
-<img src="stack_diagram.png" width="650">
+<img src="stack_diagram.png" width="800">
 </p>
 
 ---
