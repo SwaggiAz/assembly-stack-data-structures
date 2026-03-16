@@ -4,7 +4,7 @@
 ![Architecture](https://img.shields.io/badge/Architecture-x86-green)
 ![Project](https://img.shields.io/badge/Project-Stack%20Data%20Structure-orange)
 
-## Overview
+## 📘 Overview
 
 This project demonstrates how high-level data structures can be implemented using low-level assembly language programming. The focus of this project is the **Stack data structure**, which is commonly used in many programming algorithms.
 
@@ -90,7 +90,7 @@ Algorithm:
 
 ---
 
-## Why Assembly Language?
+## ⚙️ Why Assembly Language?
 
 Assembly provides:
 
@@ -103,13 +103,13 @@ Although high-level languages implement stacks easily, implementing them in asse
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 Aniket Zaveri  
 Computer Science Student
 
 ---
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License.
