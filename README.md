@@ -1,8 +1,11 @@
 # 🧠 Assembly Stack Data Structures
 
 ![Assembly](https://img.shields.io/badge/Language-Assembly-blue)
-![Architecture](https://img.shields.io/badge/Architecture-x86-green)
-![Project](https://img.shields.io/badge/Project-Stack%20Data%20Structure-orange)
+![Architecture](https://img.shields.io/badge/Architecture-x86-orange)
+![Course](https://img.shields.io/badge/Course-CS1105-green)
+![University](https://img.shields.io/badge/University-UoPeople-purple)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📘 Overview
 
