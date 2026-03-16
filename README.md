@@ -16,7 +16,7 @@ Two example programs are implemented:
 These programs show how stack operations such as **push and pop** can be implemented directly using assembly instructions.
 
 
-## Stack Visualization
+## 📊 Stack Visualization
 
 <p align="center">
 <img src="stack_diagram.png" width="1000">
@@ -24,7 +24,7 @@ These programs show how stack operations such as **push and pop** can be impleme
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 assembly-stack-data-structures
@@ -36,7 +36,7 @@ assembly-stack-data-structures
     └── balanced_parentheses.asm
 ```
 
-## Program 1 — String Reversal
+## 🔁 Program 1 — String Reversal
 
 This program demonstrates how a stack can reverse a string.
 
@@ -73,7 +73,7 @@ Output: OLLEH
 
 ---
 
-## Program 2 — Balanced Parentheses Checker
+## 🧠 Program 2 — Balanced Parentheses Checker
 
 This program checks whether parentheses are balanced using a stack.
 
